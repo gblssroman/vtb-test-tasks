@@ -1,3 +1,9 @@
+alfabattle*/
+archive.zip
+*.parquet
+mlruns/
+catboost_info/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
